@@ -1,0 +1,127 @@
+body {
+    color: black;
+    background-color: rgb(22, 77, 102);
+}
+
+article {
+    color: black;
+    background-color: white;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+section {
+    color: black;
+    font-style: normal;
+}
+
+nav {
+    background-color: lightgreen;
+}
+
+nav a {
+    background-color: lightgreen;
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-left: 1%;
+    padding-right: 1%;
+}
+
+header {
+    color: black;
+    font-style: normal;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 1%;
+}
+
+hgroup {
+    color: white;
+    background-color: green;
+}
+
+h1 {
+    color: white;
+    font-size: 200%;
+}
+
+h2 {
+    color: orange;
+    font-size: 150%;
+}
+
+h3 {
+    color: black;
+    font-size: 125%;
+    font-weight: bold;
+    margin-top: 1%;
+}
+
+hr {
+    margin-bottom: 1%;
+}
+
+p {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+ul {
+    background-color: lightgreen;
+}
+
+li {
+    background-color: lightgreen;
+    font-size: 115%;
+    font-style: sans-serif;
+}
+
+a, em {
+    font-weight: bold;
+}
+
+a:link {
+    text-decoration: underline;
+    color: purple;
+}
+
+a:visited {
+    text-decoration: underline;
+    color: rgb(192, 3, 3);
+}
+
+a:hover {
+    text-decoration: underline;
+    color: yellow;
+    font-weight: bold;
+    background-color: green;
+}
+
+figcaption {
+    color: grey;
+    font-size: large;
+}
+
+img {
+    border: 5px solid grey;
+}
+
+.cw {
+    color: black;
+    font-style: italic;
+}
+
+footer {
+    color: white;
+    background-color: green;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+footer p {
+    margin-bottom: 0.5%;
+}
