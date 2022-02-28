@@ -1,0 +1,133 @@
+/* Changed atleast color */
+
+body {
+    color: black;
+    background-color: rgb(22, 77, 102);
+}
+
+article {
+    color: black;
+    background-color: white;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+section {
+    color: black;
+    font-style: normal;
+}
+
+header {
+    color: black;
+    font-style: normal;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 1%;
+}
+
+hgroup {
+    color: white;
+    background-color: green;
+}
+
+p {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+a:link {
+    text-decoration: underline;
+    color: purple;
+}
+
+a:visited {
+    text-decoration: underline;
+    color: rgb(192, 3, 3);
+}
+
+a:hover {
+    text-decoration: underline;
+    color: yellow;
+    font-weight: bold;
+    background-color: green;
+}
+
+.cw {
+    color: black;
+    font-style: italic;
+}
+
+footer {
+    color: white;
+    background-color: green;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+/*  Changed atleast font size */
+
+nav a {
+    background-color: lightgreen;
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-left: 1%;
+    padding-right: 1%;
+}
+
+h1 {
+    color: white;
+    font-size: 200%;
+}
+
+h2 {
+    color: orange;
+    font-size: 150%;
+}
+
+h3 {
+    color: black;
+    font-size: 125%;
+    font-weight: bold;
+    margin-top: 1%;
+}
+
+li {
+    background-color: lightgreen;
+    font-size: 115%;
+    font-style: sans-serif;
+}
+
+figcaption {
+    color: grey;
+    font-size: large;
+}
+
+/* Didn't change atleast font size or color */
+
+nav {
+    background-color: lightgreen;
+}
+
+hr {
+    margin-bottom: 1%;
+}
+
+ul {
+    background-color: lightgreen;
+}
+
+a, em {
+    font-weight: bold;
+}
+
+img {
+    border: 5px solid grey;
+}
+
+footer p {
+    margin-bottom: 0.5%;
+}
