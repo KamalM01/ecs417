@@ -1,0 +1,64 @@
+html {
+    background-color: white;
+}
+
+fieldset {
+    margin-top: 20pt;
+    margin-left: 400pt;
+    margin-right: 400pt;
+    background-color: lightgreen;
+}
+
+legend {
+    font-size: 130%;
+    color: white;
+    background-color: green;
+    text-align: center;
+    font-weight: bold;
+    padding-left: 40%;
+    padding-right: 40%;
+}
+
+.box {
+    border: solid 2pt green;
+    margin-bottom: 10pt;
+}
+
+p {
+    margin: 5pt;
+}
+
+span {
+    margin: 5pt;
+}
+
+.rectangle {
+    text-align: center;
+    display: block;
+    background-color: white;
+    margin: 0%;
+}
+
+.rounded {
+    color: white;
+    background-color: green;
+    border-radius: 5px;
+    display: inline-block;
+    padding-left: 1%;
+    padding-right: 1%;
+    padding-top: 0.3%;
+    padding-bottom: 0.3%;
+    margin: 10pt;
+}
+
+button {
+    color: white;
+    background-color: green;
+    border-radius: 5px;
+    display: inline-block;
+    padding-left: 1%;
+    padding-right: 1%;
+    padding-top: 0.3%;
+    padding-bottom: 0.3%;
+    margin: 10pt;
+}
