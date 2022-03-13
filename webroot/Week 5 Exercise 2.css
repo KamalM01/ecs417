@@ -1,0 +1,177 @@
+header {
+    display: block;
+    background-color: lightgreen;
+    padding: 5pt;
+}
+
+header a{
+    margin: 10pt;
+}
+
+h1 {
+    font-size: 1.5em;
+}
+
+.top {
+    position: absolute;
+    left: 180px;
+    top: 12px;
+    width: 12em;
+}
+
+div {
+    margin-top: 2em;
+    margin-left: 20em;
+    margin-right: 20em;
+}
+
+div#myself {
+    float: left;
+}
+
+div#myself h2 {
+    position: absolute;
+    left: 350px;
+    top: 100px;
+}
+
+div#myself p {
+    position: absolute;
+    left: 350px;
+    top: 130px;
+}
+
+div#photo {
+    float: right;
+    width: 100em;
+    left: 500px;
+}
+
+div#photo figure {
+    position: absolute;
+    width: 125em;
+    left: 1350px;
+    top: 80px;
+}
+
+hr {
+    margin-left: 20em;
+    margin-right: 20em;
+    margin-top: 20em;
+}
+
+.education {
+    position: absolute;
+    left: 350px;
+    top: 380px;
+    margin: 1em;
+}
+
+.interests {
+    float: left;
+    background-color: lightgoldenrodyellow;
+    position: absolute;
+    width: 16.9em;
+    top: 50px;
+    margin-top: 5pt;
+    margin-bottom: 5pt;
+}
+
+.interests h2 {
+    padding-left: 5pt;
+    padding-right: 5pt;
+}
+
+.interests p {
+    padding-left: 5pt;
+    padding-right: 5pt;
+}
+
+.bottom {
+    float: left;
+    position: absolute;
+    width: 16.9em;
+    top: 150px;
+    left: 0px;
+    background-color: lightgray;
+    margin-top: 10pt;
+}
+
+.bottom p {
+    padding-left: 5pt;
+    padding-right: 5pt;
+    padding-top: 0.1pt;
+    padding-bottom: 0.1pt;
+}
+
+.skills {
+    float: left;
+    top: 560px;
+    display: block;
+    position: absolute;
+    width: 15em;
+    top: 310px;
+    border: 15px solid lightgray;
+    margin-top: 10pt;
+    padding: 0pt;
+}
+
+.skills h2 {
+    background-color: lightgreen;
+    font-size: large;
+    padding: 10pt;
+}
+
+.skills p {
+    background-color: white;
+    padding: 3pt;
+}
+
+.skills figure {
+    width: 100em;
+    size: 100%;
+}
+
+.hobbies {
+    display: block;
+    position: absolute;
+    width: 15em;
+    float: right;
+    right: 0px;
+    top: 60px;
+    border: 15px solid lightgray;
+    padding: 0pt;
+}
+
+.hobbies h2 {
+    background-color: lightgreen;
+    font-size: large;
+    padding: 10pt;
+}
+
+.hobbies p {
+    background-color: white;
+    padding: 3pt;
+}
+
+.movies {
+    display: block;
+    position: absolute;
+    width: 15em;
+    float: right;
+    right: 0px;
+    top: 230px;
+    border: 15px solid lightgray;
+    padding: 0pt;
+}
+
+.movies h2 {
+    background-color: lightgreen;
+    font-size: large;
+    padding: 10pt;
+}
+
+.movies p {
+    background-color: white;
+    padding: 3pt;
+}
