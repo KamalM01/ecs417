@@ -1,0 +1,98 @@
+/* Styles the whole html page */
+
+html {
+    background-color: beige;
+}
+
+/* Styles header */
+
+header h1 {
+    top: 0px;
+    background-color: lightskyblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    text-align: center;
+    font-weight: bold;
+}
+
+/* Styles nav */
+
+nav {
+    text-align: center;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+nav a {
+    margin: 5pt;
+    margin-left: 50pt;
+    margin-right: 50pt;
+}
+
+nav a:link {
+    font-size: x-large;
+    color: green;
+}
+
+nav a:visited {
+    color: orangered;
+}
+
+nav a:hover {
+    color: yellow;
+    background-color: blue;
+}
+
+/* Styles article */
+
+article {
+    margin-left: 50pt;
+    margin-top: 50pt;
+}
+
+article header {
+    display: inline-block;
+    font-size: x-large;
+    padding-left: 5pt;
+    padding-right: 5pt;
+    padding-top: 5pt;
+    padding-bottom: 5pt;
+}
+
+article p {
+    font-size: larger;
+}
+
+/* Styles aside */
+
+aside {
+    position: absolute;
+    left: 1500px;
+    bottom: 480px;
+    width: 100%;
+    float: right;
+}
+
+aside img {
+    border: 5px solid black;
+    border-radius: 5px;
+    right: 0px;
+}
+
+/* Styles footer */
+
+footer {
+    position: absolute;
+    margin-left: 50pt;
+    top: 400px;
+    float: left;
+}
+
+footer h2 {
+    font-size: x-large;
+    margin-bottom: 10pt;
+}
+
+footer p {
+    font-size: larger;
+}
